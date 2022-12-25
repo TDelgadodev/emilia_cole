@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+a{
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul, ol {
+    padding: 0px;
+}
+
+h1{
+    font-family: "Raleway", "sans-serif";
+    font-size: 72px;
+    text-transform: uppercase;
+}
