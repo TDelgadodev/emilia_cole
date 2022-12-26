@@ -1,11 +1,20 @@
-body{
-    background-color: antiquewhite;
+.index {
+  background-image: url("/images/emilia-home.jpg");
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: right top;
 }
 
-a{
-    text-decoration: none;
+.index__main--subtitulo {
+  font-family: "Work Sans";
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  font-weight: 300;
+  margin: 120px 0px 120px 30px;
+  letter-spacing: 4px;
+  line-height: 30px;
 }
 
-li {
-    list-style: none;
+.index__main--titulo {
+  background-color: rgba(255, 255, 255, 0.3);
 }

@@ -1,0 +1,38 @@
+.index__header{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.index__header__nav--menu{
+    line-height: 30px;
+}
+
+.index__header__nav--menu li a{
+    text-transform: uppercase;
+    color: gray;
+}
+
+.header{
+
+}
+
+.header__nav{
+    
+}
+
+.header__nav--menu{
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.6);
+    margin-top: 25px;
+    padding: 20px 0px;
+}
+
+.header__nav--menu li{
+    display: inline;
+    text-transform: uppercase;
+}
+
+.header__nav--redes {
+    text-align: right;
+    margin-top: 10px;
+}
